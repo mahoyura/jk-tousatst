@@ -1,0 +1,31 @@
+.header{
+background-color:#cee9bb;
+height:100px;
+}
+.header h1{
+float:left;
+padding:10px 50px;
+}
+.header p{
+float:left;
+padding:10px 100px;
+font-size:25px;
+}
+span{
+color:#ff2021;
+}
+.footer{
+height:500px;
+background-color:#7cc6bb;
+padding:50px 70px;
+}
+textarea{
+resize:none;
+height:150px;
+width:400px;
+}
+.site{
+float:right;
+text-decoration:none;
+color:#000;
+}
